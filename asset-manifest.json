@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cotizador-autos/static/css/main.f32fa962.chunk.css",
+    "main.js": "/cotizador-autos/static/js/main.f210ac4d.chunk.js",
+    "main.js.map": "/cotizador-autos/static/js/main.f210ac4d.chunk.js.map",
+    "runtime~main.js": "/cotizador-autos/static/js/runtime~main.0702e234.js",
+    "runtime~main.js.map": "/cotizador-autos/static/js/runtime~main.0702e234.js.map",
+    "static/js/2.23cb5ec5.chunk.js": "/cotizador-autos/static/js/2.23cb5ec5.chunk.js",
+    "static/js/2.23cb5ec5.chunk.js.map": "/cotizador-autos/static/js/2.23cb5ec5.chunk.js.map",
+    "index.html": "/cotizador-autos/index.html",
+    "precache-manifest.2a288b71dbd0ab500aa3a166ef010295.js": "/cotizador-autos/precache-manifest.2a288b71dbd0ab500aa3a166ef010295.js",
+    "service-worker.js": "/cotizador-autos/service-worker.js",
+    "static/css/main.f32fa962.chunk.css.map": "/cotizador-autos/static/css/main.f32fa962.chunk.css.map"
+  }
+}
